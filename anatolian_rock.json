@@ -1,0 +1,139 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "singer": "Erkin Koray",
+      "song": "Cemalim",
+      "year": 1974,
+      "lyrics": "Cemalim, Cemalim, güzel Cemalim / Sana yanık, sana aşık ben Cemalim",
+      "description": "Erkin Koray, Anadolu rock müziğinin en önemli isimlerinden biridir.",
+      "image_url": "https://i.ytimg.com/vi/3VggtUIpEYY/maxresdefault.jpg"
+    },
+    {
+      "id": 2,
+      "singer": "Cem Karaca",
+      "song": "Tamirci Çırağı",
+      "year": 1975,
+      "lyrics": "Ustam geldi, yanıma oturdu / Kızmış gözleri, sesi titriyor",
+      "description": "Cem Karaca, toplumsal mesaj içeren şarkılarıyla Anadolu rock müziğinin öncüsüdür.",
+      "image_url": "https://i.ytimg.com/vi/8PjMPsQp1CA/maxresdefault.jpg"
+    },
+    {
+      "id": 3,
+      "singer": "Barış Manço",
+      "song": "Dönence",
+      "year": 1981,
+      "lyrics": "Gün olur, alır başımı giderim / Denizden yeni çıkmış ağların kokusunda",
+      "description": "Barış Manço, Türk müziğinin en sevilen sanatçılarından biridir.",
+      "image_url": "https://i.ytimg.com/vi/2bsPze_vNGk/maxresdefault.jpg"
+    },
+    {
+      "id": 4,
+      "singer": "Moğollar",
+      "song": "Dinleyiverin Gari",
+      "year": 1971,
+      "lyrics": "Dinleyiverin gari / Aşkın halini bari",
+      "description": "Moğollar, Anadolu rock'ın kurucu gruplarından biridir.",
+      "image_url": "https://i.ytimg.com/vi/Aow60tnswOU/maxresdefault.jpg"
+    },
+    {
+      "id": 5,
+      "singer": "3 Hürel",
+      "song": "Sevenler Ağlarmış",
+      "year": 1974,
+      "lyrics": "Sevenler ağlarmış, bilmedim ki / Bunu bana kimse söylemedi ki",
+      "description": "3 Hürel, Anadolu rock müziğinin önemli gruplarından biridir.",
+      "image_url": "https://i.ytimg.com/vi/Mj_9h8Bx70Q/maxresdefault.jpg"
+    },
+    {
+      "id": 6,
+      "singer": "Fikret Kızılok",
+      "song": "Bu Kalp Seni Unutur mu?",
+      "year": 1986,
+      "lyrics": "Bu kalp seni unutur mu? / Sen bana yaşarken öldürdün beni",
+      "description": "Fikret Kızılok, Anadolu rock ve folk müziğin önemli isimlerindendir.",
+      "image_url": "https://i.ytimg.com/vi/XbQxQOBw6U0/maxresdefault.jpg"
+    },
+    {
+      "id": 7,
+      "singer": "Bunalım",
+      "song": "Taş Var Köpek Yok",
+      "year": 1970,
+      "lyrics": "Yollarda taş var köpek yok / Geceleri karanlık, kimse yok",
+      "description": "Bunalım, Türk rock müziğinin en deneysel gruplarından biridir.",
+      "image_url": "https://i.ytimg.com/vi/JQJQo_9BhIw/maxresdefault.jpg"
+    },
+    {
+      "id": 8,
+      "singer": "Kurtalan Ekspres",
+      "song": "Gesi Bağları",
+      "year": 1973,
+      "lyrics": "Gesi bağlarında dolanıyorum / Yitirdim yarimi, aranıyorum",
+      "description": "Kurtalan Ekspres, Barış Manço'nun uzun yıllar birlikte çalıştığı grup olarak bilinir.",
+      "image_url": "https://i.ytimg.com/vi/X0F2bv7FC08/maxresdefault.jpg"
+    },
+    {
+      "id": 9,
+      "singer": "Hardal",
+      "song": "Bir Yağmur Masalı",
+      "year": 1979,
+      "lyrics": "Yağmur yağıyor üzerime / Seninle olan her şey gibi",
+      "description": "Hardal, Türkiye'nin ilk progresif rock gruplarından biridir.",
+      "image_url": "https://i.ytimg.com/vi/PyIW5mY9HjE/maxresdefault.jpg"
+    },
+    {
+      "id": 10,
+      "singer": "Erkin Koray",
+      "song": "Estarabim",
+      "year": 1977,
+      "lyrics": "Estarabim, sen bu işe ne dersin / Bir zamanlar ben de deliydim",
+      "description": "Erkin Koray, Anadolu rock ve psychedelic rock türlerinde öncü isimlerdendir.",
+      "image_url": "https://i.ytimg.com/vi/fd_bQys3H3g/maxresdefault.jpg"
+    },
+    {
+      "id": 11,
+      "singer": "Cem Karaca",
+      "song": "Islak Islak",
+      "year": 1980,
+      "lyrics": "Islak ıslak bakma öyle / Bir şeyler söyle, gönlümü al",
+      "description": "Cem Karaca, etkileyici vokali ve sosyal mesaj içeren şarkılarıyla tanınır.",
+      "image_url": "https://i.ytimg.com/vi/3sJxkaJ7EvI/maxresdefault.jpg"
+    },
+    {
+      "id": 12,
+      "singer": "Barış Manço",
+      "song": "Sarı Çizmeli Mehmet Ağa",
+      "year": 1982,
+      "lyrics": "Yaz dostum, güzel sevmeyene adam denir mi? / Yaz dostum, selam almayana yiğit denir mi?",
+      "description": "Barış Manço'nun en ikonik şarkılarından biridir.",
+      "image_url": "https://i.ytimg.com/vi/kKtmZNRQBAg/maxresdefault.jpg"
+    },
+    {
+      "id": 13,
+      "singer": "Moğollar",
+      "song": "Garip Çoban",
+      "year": 1970,
+      "lyrics": "Garip çoban, yalnız çoban / Dağlarda tek başına",
+      "description": "Moğollar, Anadolu rock ve folk müziği harmanlayan öncü gruplardandır.",
+      "image_url": "https://i.ytimg.com/vi/KoQd8jT3d-0/maxresdefault.jpg"
+    },
+    {
+      "id": 14,
+      "singer": "3 Hürel",
+      "song": "Ağlarsa Anam Ağlar",
+      "year": 1975,
+      "lyrics": "Ağlarsa anam ağlar / Gerisi yalan ağlar",
+      "description": "3 Hürel, akustik ve elektrik gitarı ustaca harmanlayan bir Anadolu rock grubudur.",
+      "image_url": "https://i.ytimg.com/vi/S_LN8k7V53w/maxresdefault.jpg"
+    },
+    {
+      "id": 15,
+      "singer": "Fikret Kızılok",
+      "song": "Leylim Ley",
+      "year": 1980,
+      "lyrics": "Düşünce aklıma hep sen gelirsin / Gözümde yaş olur, akar leylim ley",
+      "description": "Fikret Kızılok'un en duygusal eserlerinden biridir.",
+      "image_url": "https://i.ytimg.com/vi/0T0WApC0R8M/maxresdefault.jpg"
+    }
+  ]
+}
