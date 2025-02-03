@@ -1,5 +1,4 @@
-{
-  "songs": [
+[
     {
       "id": 1,
       "singer": "Erkin Koray",
@@ -135,5 +134,4 @@
       "description": "Fikret Kızılok'un en duygusal eserlerinden biridir.",
       "image_url": "https://i.ytimg.com/vi/0T0WApC0R8M/maxresdefault.jpg"
     }
-  ]
-}
+]
